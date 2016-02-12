@@ -20,6 +20,8 @@
 			<Item Name="Panel Resized.vi" Type="VI" URL="../Panel Resized.vi"/>
 			<Item Name="Adjust Dashboard Window.vi" Type="VI" URL="../Adjust Dashboard Window.vi"/>
 			<Item Name="Calibration Helper2.vi" Type="VI" URL="../Calibration Helper2.vi"/>
+			<Item Name="PutColor.vi" Type="VI" URL="../../TShirtCannon/TShirtCannonCode/PutColor.vi"/>
+			<Item Name="ReadColors.vi" Type="VI" URL="../../TShirtCannon/TShirtCannonCode/ReadColors.vi"/>
 		</Item>
 		<Item Name="Dashboard Main.vi" Type="VI" URL="../Dashboard Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
