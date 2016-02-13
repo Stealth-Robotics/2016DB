@@ -22,6 +22,7 @@
 			<Item Name="Calibration Helper2.vi" Type="VI" URL="../Calibration Helper2.vi"/>
 			<Item Name="PutColor.vi" Type="VI" URL="../../TShirtCannon/TShirtCannonCode/PutColor.vi"/>
 			<Item Name="ReadColors.vi" Type="VI" URL="../../TShirtCannon/TShirtCannonCode/ReadColors.vi"/>
+			<Item Name="ReadRectangle.vi" Type="VI" URL="../../TShirtCannon/TShirtCannonCode/ReadRectangle.vi"/>
 		</Item>
 		<Item Name="Dashboard Main.vi" Type="VI" URL="../Dashboard Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -221,6 +222,7 @@
 				<Item Name="NT Write Raw.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/NT Write Raw.vi"/>
 				<Item Name="NI_Vision_Development_Module.lvlib" Type="Library" URL="/&lt;vilib&gt;/vision/NI_Vision_Development_Module.lvlib"/>
 				<Item Name="ROI Descriptor" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/ROI Descriptor"/>
+				<Item Name="IMAQ Overlay Rectangle" Type="VI" URL="/&lt;vilib&gt;/vision/Overlay.llb/IMAQ Overlay Rectangle"/>
 			</Item>
 			<Item Name="Interpolate RGB Color.vi" Type="VI" URL="../Interpolate RGB Color.vi"/>
 			<Item Name="Playback Controls.vi" Type="VI" URL="../Playback Controls.vi"/>
