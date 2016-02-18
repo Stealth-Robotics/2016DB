@@ -23,6 +23,9 @@
 			<Item Name="PutColor.vi" Type="VI" URL="../../TShirtCannon/TShirtCannonCode/PutColor.vi"/>
 			<Item Name="ReadColors.vi" Type="VI" URL="../../TShirtCannon/TShirtCannonCode/ReadColors.vi"/>
 			<Item Name="ReadRectangle.vi" Type="VI" URL="../../TShirtCannon/TShirtCannonCode/ReadRectangle.vi"/>
+			<Item Name="MarkGoals.vi" Type="VI" URL="../../TShirtCannon/TShirtCannonCode/MarkGoals.vi"/>
+			<Item Name="ReadPoint.vi" Type="VI" URL="../../TShirtCannon/TShirtCannonCode/ReadPoint.vi"/>
+			<Item Name="DBKillPersistent.vi" Type="VI" URL="../../TShirtCannon/TShirtCannonCode/DBKillPersistent.vi"/>
 		</Item>
 		<Item Name="Dashboard Main.vi" Type="VI" URL="../Dashboard Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -223,6 +226,7 @@
 				<Item Name="NI_Vision_Development_Module.lvlib" Type="Library" URL="/&lt;vilib&gt;/vision/NI_Vision_Development_Module.lvlib"/>
 				<Item Name="ROI Descriptor" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/ROI Descriptor"/>
 				<Item Name="IMAQ Overlay Rectangle" Type="VI" URL="/&lt;vilib&gt;/vision/Overlay.llb/IMAQ Overlay Rectangle"/>
+				<Item Name="IMAQ Overlay Text" Type="VI" URL="/&lt;vilib&gt;/vision/Overlay.llb/IMAQ Overlay Text"/>
 			</Item>
 			<Item Name="Interpolate RGB Color.vi" Type="VI" URL="../Interpolate RGB Color.vi"/>
 			<Item Name="Playback Controls.vi" Type="VI" URL="../Playback Controls.vi"/>
